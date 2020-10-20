@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""The chocolate has the form of a rectangle divided into n × m slices.
-   The chocolate can be broken into two parts once in a straight line. 
-   The program determines whether it is possible to break off a part of 
-   the chocolate bar, consisting of exactly k slices."""
+"""Given three sides of a triangle a, b, c. 
+   The program determines the type of a triangle with given sides
+   and outputs one of four words: "rectangular" for a right-angled triangle,
+   "acute", "obtuse", or "impossible" if a triangle with such sides does not exist
+   (degenerate triangle is also impossible)."""
 
 
 a = int(input())
