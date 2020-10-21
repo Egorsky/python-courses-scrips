@@ -8,4 +8,6 @@
 s = input()
 b = s.count(' ')
 count = b + 1
+if s[-1] == ' ':
+    count -= 1
 print(count)
