@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\NameGrab\bin\Debug\netcoreapp3.1\NameGrab.exe
+C:\Users\e.kolpakov\source\repos\NameGrab\bin\Debug\netcoreapp3.1\NameGrab.deps.json
+C:\Users\e.kolpakov\source\repos\NameGrab\bin\Debug\netcoreapp3.1\NameGrab.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\NameGrab\bin\Debug\netcoreapp3.1\NameGrab.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\NameGrab\bin\Debug\netcoreapp3.1\NameGrab.dll
+C:\Users\e.kolpakov\source\repos\NameGrab\bin\Debug\netcoreapp3.1\NameGrab.pdb
+C:\Users\e.kolpakov\source\repos\NameGrab\obj\Debug\netcoreapp3.1\NameGrab.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\NameGrab\obj\Debug\netcoreapp3.1\NameGrab.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\NameGrab\obj\Debug\netcoreapp3.1\NameGrab.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\NameGrab\obj\Debug\netcoreapp3.1\NameGrab.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\NameGrab\obj\Debug\netcoreapp3.1\NameGrab.dll
+C:\Users\e.kolpakov\source\repos\NameGrab\obj\Debug\netcoreapp3.1\NameGrab.pdb
+C:\Users\e.kolpakov\source\repos\NameGrab\obj\Debug\netcoreapp3.1\NameGrab.genruntimeconfig.cache

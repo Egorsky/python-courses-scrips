@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\StringCheck\bin\Debug\netcoreapp3.1\StringCheck.exe
+C:\Users\e.kolpakov\source\repos\StringCheck\bin\Debug\netcoreapp3.1\StringCheck.deps.json
+C:\Users\e.kolpakov\source\repos\StringCheck\bin\Debug\netcoreapp3.1\StringCheck.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\StringCheck\bin\Debug\netcoreapp3.1\StringCheck.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\StringCheck\bin\Debug\netcoreapp3.1\StringCheck.dll
+C:\Users\e.kolpakov\source\repos\StringCheck\bin\Debug\netcoreapp3.1\StringCheck.pdb
+C:\Users\e.kolpakov\source\repos\StringCheck\obj\Debug\netcoreapp3.1\StringCheck.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\StringCheck\obj\Debug\netcoreapp3.1\StringCheck.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\StringCheck\obj\Debug\netcoreapp3.1\StringCheck.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\StringCheck\obj\Debug\netcoreapp3.1\StringCheck.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\StringCheck\obj\Debug\netcoreapp3.1\StringCheck.dll
+C:\Users\e.kolpakov\source\repos\StringCheck\obj\Debug\netcoreapp3.1\StringCheck.pdb
+C:\Users\e.kolpakov\source\repos\StringCheck\obj\Debug\netcoreapp3.1\StringCheck.genruntimeconfig.cache
