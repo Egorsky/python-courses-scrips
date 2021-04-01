@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\BGElseIf\bin\Debug\netcoreapp3.1\BGElseIf.exe
+C:\Users\e.kolpakov\source\repos\BGElseIf\bin\Debug\netcoreapp3.1\BGElseIf.deps.json
+C:\Users\e.kolpakov\source\repos\BGElseIf\bin\Debug\netcoreapp3.1\BGElseIf.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\BGElseIf\bin\Debug\netcoreapp3.1\BGElseIf.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\BGElseIf\bin\Debug\netcoreapp3.1\BGElseIf.dll
+C:\Users\e.kolpakov\source\repos\BGElseIf\bin\Debug\netcoreapp3.1\BGElseIf.pdb
+C:\Users\e.kolpakov\source\repos\BGElseIf\obj\Debug\netcoreapp3.1\BGElseIf.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\BGElseIf\obj\Debug\netcoreapp3.1\BGElseIf.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\BGElseIf\obj\Debug\netcoreapp3.1\BGElseIf.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\BGElseIf\obj\Debug\netcoreapp3.1\BGElseIf.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\BGElseIf\obj\Debug\netcoreapp3.1\BGElseIf.dll
+C:\Users\e.kolpakov\source\repos\BGElseIf\obj\Debug\netcoreapp3.1\BGElseIf.pdb
+C:\Users\e.kolpakov\source\repos\BGElseIf\obj\Debug\netcoreapp3.1\BGElseIf.genruntimeconfig.cache
