@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.exe
+C:\Users\e.kolpakov\source\repos\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.deps.json
+C:\Users\e.kolpakov\source\repos\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.dll
+C:\Users\e.kolpakov\source\repos\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.pdb
+C:\Users\e.kolpakov\source\repos\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.dll
+C:\Users\e.kolpakov\source\repos\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.pdb
+C:\Users\e.kolpakov\source\repos\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.genruntimeconfig.cache
