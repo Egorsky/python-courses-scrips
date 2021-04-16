@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.exe
+C:\Users\e.kolpakov\source\repos\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.deps.json
+C:\Users\e.kolpakov\source\repos\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.dll
+C:\Users\e.kolpakov\source\repos\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.pdb
+C:\Users\e.kolpakov\source\repos\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.dll
+C:\Users\e.kolpakov\source\repos\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.pdb
+C:\Users\e.kolpakov\source\repos\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.genruntimeconfig.cache
