@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\CaptureOutput\bin\Debug\netcoreapp3.1\CaptureOutput.exe
+C:\Users\e.kolpakov\source\repos\CaptureOutput\bin\Debug\netcoreapp3.1\CaptureOutput.deps.json
+C:\Users\e.kolpakov\source\repos\CaptureOutput\bin\Debug\netcoreapp3.1\CaptureOutput.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\CaptureOutput\bin\Debug\netcoreapp3.1\CaptureOutput.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\CaptureOutput\bin\Debug\netcoreapp3.1\CaptureOutput.dll
+C:\Users\e.kolpakov\source\repos\CaptureOutput\bin\Debug\netcoreapp3.1\CaptureOutput.pdb
+C:\Users\e.kolpakov\source\repos\CaptureOutput\obj\Debug\netcoreapp3.1\CaptureOutput.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\CaptureOutput\obj\Debug\netcoreapp3.1\CaptureOutput.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\CaptureOutput\obj\Debug\netcoreapp3.1\CaptureOutput.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\CaptureOutput\obj\Debug\netcoreapp3.1\CaptureOutput.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\CaptureOutput\obj\Debug\netcoreapp3.1\CaptureOutput.dll
+C:\Users\e.kolpakov\source\repos\CaptureOutput\obj\Debug\netcoreapp3.1\CaptureOutput.pdb
+C:\Users\e.kolpakov\source\repos\CaptureOutput\obj\Debug\netcoreapp3.1\CaptureOutput.genruntimeconfig.cache

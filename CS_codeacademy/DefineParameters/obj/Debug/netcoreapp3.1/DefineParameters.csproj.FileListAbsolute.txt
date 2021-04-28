@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.exe
+C:\Users\e.kolpakov\source\repos\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.deps.json
+C:\Users\e.kolpakov\source\repos\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.dll
+C:\Users\e.kolpakov\source\repos\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.pdb
+C:\Users\e.kolpakov\source\repos\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.dll
+C:\Users\e.kolpakov\source\repos\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.pdb
+C:\Users\e.kolpakov\source\repos\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.genruntimeconfig.cache
