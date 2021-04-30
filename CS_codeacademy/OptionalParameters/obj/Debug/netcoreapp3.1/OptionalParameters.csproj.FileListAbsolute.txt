@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.exe
+C:\Users\e.kolpakov\source\repos\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.deps.json
+C:\Users\e.kolpakov\source\repos\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.dll
+C:\Users\e.kolpakov\source\repos\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.pdb
+C:\Users\e.kolpakov\source\repos\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.dll
+C:\Users\e.kolpakov\source\repos\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.pdb
+C:\Users\e.kolpakov\source\repos\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.genruntimeconfig.cache
