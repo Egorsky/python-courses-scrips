@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\Return\bin\Debug\netcoreapp3.1\Return.exe
+C:\Users\e.kolpakov\source\repos\Return\bin\Debug\netcoreapp3.1\Return.deps.json
+C:\Users\e.kolpakov\source\repos\Return\bin\Debug\netcoreapp3.1\Return.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\Return\bin\Debug\netcoreapp3.1\Return.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\Return\bin\Debug\netcoreapp3.1\Return.dll
+C:\Users\e.kolpakov\source\repos\Return\bin\Debug\netcoreapp3.1\Return.pdb
+C:\Users\e.kolpakov\source\repos\Return\obj\Debug\netcoreapp3.1\Return.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\Return\obj\Debug\netcoreapp3.1\Return.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\Return\obj\Debug\netcoreapp3.1\Return.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\Return\obj\Debug\netcoreapp3.1\Return.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\Return\obj\Debug\netcoreapp3.1\Return.dll
+C:\Users\e.kolpakov\source\repos\Return\obj\Debug\netcoreapp3.1\Return.pdb
+C:\Users\e.kolpakov\source\repos\Return\obj\Debug\netcoreapp3.1\Return.genruntimeconfig.cache
