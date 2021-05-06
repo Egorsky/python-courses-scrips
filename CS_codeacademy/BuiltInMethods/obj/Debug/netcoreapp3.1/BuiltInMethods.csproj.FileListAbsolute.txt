@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.exe
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.deps.json
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.dll
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.pdb
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.dll
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.pdb
+C:\Users\e.kolpakov\source\repos\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.genruntimeconfig.cache
