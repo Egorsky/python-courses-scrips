@@ -1,0 +1,12 @@
+C:\Users\e.kolpakov\source\repos\AccessingArrays\bin\Debug\netcoreapp3.1\AccessingArrays.exe
+C:\Users\e.kolpakov\source\repos\AccessingArrays\bin\Debug\netcoreapp3.1\AccessingArrays.deps.json
+C:\Users\e.kolpakov\source\repos\AccessingArrays\bin\Debug\netcoreapp3.1\AccessingArrays.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\AccessingArrays\bin\Debug\netcoreapp3.1\AccessingArrays.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\AccessingArrays\bin\Debug\netcoreapp3.1\AccessingArrays.dll
+C:\Users\e.kolpakov\source\repos\AccessingArrays\bin\Debug\netcoreapp3.1\AccessingArrays.pdb
+C:\Users\e.kolpakov\source\repos\AccessingArrays\obj\Debug\netcoreapp3.1\AccessingArrays.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\AccessingArrays\obj\Debug\netcoreapp3.1\AccessingArrays.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\AccessingArrays\obj\Debug\netcoreapp3.1\AccessingArrays.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\AccessingArrays\obj\Debug\netcoreapp3.1\AccessingArrays.dll
+C:\Users\e.kolpakov\source\repos\AccessingArrays\obj\Debug\netcoreapp3.1\AccessingArrays.pdb
+C:\Users\e.kolpakov\source\repos\AccessingArrays\obj\Debug\netcoreapp3.1\AccessingArrays.genruntimeconfig.cache

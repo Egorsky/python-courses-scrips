@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\EditingArrays\bin\Debug\netcoreapp3.1\EditingArrays.exe
+C:\Users\e.kolpakov\source\repos\EditingArrays\bin\Debug\netcoreapp3.1\EditingArrays.deps.json
+C:\Users\e.kolpakov\source\repos\EditingArrays\bin\Debug\netcoreapp3.1\EditingArrays.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\EditingArrays\bin\Debug\netcoreapp3.1\EditingArrays.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\EditingArrays\bin\Debug\netcoreapp3.1\EditingArrays.dll
+C:\Users\e.kolpakov\source\repos\EditingArrays\bin\Debug\netcoreapp3.1\EditingArrays.pdb
+C:\Users\e.kolpakov\source\repos\EditingArrays\obj\Debug\netcoreapp3.1\EditingArrays.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\EditingArrays\obj\Debug\netcoreapp3.1\EditingArrays.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\EditingArrays\obj\Debug\netcoreapp3.1\EditingArrays.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\EditingArrays\obj\Debug\netcoreapp3.1\EditingArrays.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\EditingArrays\obj\Debug\netcoreapp3.1\EditingArrays.dll
+C:\Users\e.kolpakov\source\repos\EditingArrays\obj\Debug\netcoreapp3.1\EditingArrays.pdb
+C:\Users\e.kolpakov\source\repos\EditingArrays\obj\Debug\netcoreapp3.1\EditingArrays.genruntimeconfig.cache

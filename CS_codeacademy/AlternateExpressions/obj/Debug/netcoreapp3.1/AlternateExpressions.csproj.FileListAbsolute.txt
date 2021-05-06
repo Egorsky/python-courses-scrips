@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\obj\Debug\netcoreapp3.1\AlternateExpressions.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\obj\Debug\netcoreapp3.1\AlternateExpressions.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\obj\Debug\netcoreapp3.1\AlternateExpressions.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\obj\Debug\netcoreapp3.1\AlternateExpressions.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\bin\Debug\netcoreapp3.1\AlternateExpressions.exe
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\bin\Debug\netcoreapp3.1\AlternateExpressions.deps.json
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\bin\Debug\netcoreapp3.1\AlternateExpressions.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\bin\Debug\netcoreapp3.1\AlternateExpressions.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\bin\Debug\netcoreapp3.1\AlternateExpressions.dll
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\bin\Debug\netcoreapp3.1\AlternateExpressions.pdb
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\obj\Debug\netcoreapp3.1\AlternateExpressions.dll
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\obj\Debug\netcoreapp3.1\AlternateExpressions.pdb
+C:\Users\e.kolpakov\source\repos\AlternateExpressions\obj\Debug\netcoreapp3.1\AlternateExpressions.genruntimeconfig.cache

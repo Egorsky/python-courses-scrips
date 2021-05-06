@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\ArrayLength\bin\Debug\netcoreapp3.1\ArrayLength.exe
+C:\Users\e.kolpakov\source\repos\ArrayLength\bin\Debug\netcoreapp3.1\ArrayLength.deps.json
+C:\Users\e.kolpakov\source\repos\ArrayLength\bin\Debug\netcoreapp3.1\ArrayLength.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\ArrayLength\bin\Debug\netcoreapp3.1\ArrayLength.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\ArrayLength\bin\Debug\netcoreapp3.1\ArrayLength.dll
+C:\Users\e.kolpakov\source\repos\ArrayLength\bin\Debug\netcoreapp3.1\ArrayLength.pdb
+C:\Users\e.kolpakov\source\repos\ArrayLength\obj\Debug\netcoreapp3.1\ArrayLength.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\ArrayLength\obj\Debug\netcoreapp3.1\ArrayLength.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\ArrayLength\obj\Debug\netcoreapp3.1\ArrayLength.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\ArrayLength\obj\Debug\netcoreapp3.1\ArrayLength.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\ArrayLength\obj\Debug\netcoreapp3.1\ArrayLength.dll
+C:\Users\e.kolpakov\source\repos\ArrayLength\obj\Debug\netcoreapp3.1\ArrayLength.pdb
+C:\Users\e.kolpakov\source\repos\ArrayLength\obj\Debug\netcoreapp3.1\ArrayLength.genruntimeconfig.cache

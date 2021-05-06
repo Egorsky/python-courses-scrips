@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AlternateExpressions2/1.0.0": {
+        "runtime": {
+          "AlternateExpressions2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlternateExpressions2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
