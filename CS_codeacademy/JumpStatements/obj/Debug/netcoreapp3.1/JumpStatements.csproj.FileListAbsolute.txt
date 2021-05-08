@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\JumpStatements\bin\Debug\netcoreapp3.1\JumpStatements.exe
+C:\Users\e.kolpakov\source\repos\JumpStatements\bin\Debug\netcoreapp3.1\JumpStatements.deps.json
+C:\Users\e.kolpakov\source\repos\JumpStatements\bin\Debug\netcoreapp3.1\JumpStatements.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\JumpStatements\bin\Debug\netcoreapp3.1\JumpStatements.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\JumpStatements\bin\Debug\netcoreapp3.1\JumpStatements.dll
+C:\Users\e.kolpakov\source\repos\JumpStatements\bin\Debug\netcoreapp3.1\JumpStatements.pdb
+C:\Users\e.kolpakov\source\repos\JumpStatements\obj\Debug\netcoreapp3.1\JumpStatements.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\JumpStatements\obj\Debug\netcoreapp3.1\JumpStatements.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\JumpStatements\obj\Debug\netcoreapp3.1\JumpStatements.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\JumpStatements\obj\Debug\netcoreapp3.1\JumpStatements.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\JumpStatements\obj\Debug\netcoreapp3.1\JumpStatements.dll
+C:\Users\e.kolpakov\source\repos\JumpStatements\obj\Debug\netcoreapp3.1\JumpStatements.pdb
+C:\Users\e.kolpakov\source\repos\JumpStatements\obj\Debug\netcoreapp3.1\JumpStatements.genruntimeconfig.cache
