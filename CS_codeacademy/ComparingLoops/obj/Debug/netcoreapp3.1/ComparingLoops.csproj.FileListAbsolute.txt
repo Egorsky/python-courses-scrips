@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\ComparingLoops\bin\Debug\netcoreapp3.1\ComparingLoops.exe
+C:\Users\e.kolpakov\source\repos\ComparingLoops\bin\Debug\netcoreapp3.1\ComparingLoops.deps.json
+C:\Users\e.kolpakov\source\repos\ComparingLoops\bin\Debug\netcoreapp3.1\ComparingLoops.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\ComparingLoops\bin\Debug\netcoreapp3.1\ComparingLoops.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\ComparingLoops\bin\Debug\netcoreapp3.1\ComparingLoops.dll
+C:\Users\e.kolpakov\source\repos\ComparingLoops\bin\Debug\netcoreapp3.1\ComparingLoops.pdb
+C:\Users\e.kolpakov\source\repos\ComparingLoops\obj\Debug\netcoreapp3.1\ComparingLoops.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\ComparingLoops\obj\Debug\netcoreapp3.1\ComparingLoops.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\ComparingLoops\obj\Debug\netcoreapp3.1\ComparingLoops.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\ComparingLoops\obj\Debug\netcoreapp3.1\ComparingLoops.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\ComparingLoops\obj\Debug\netcoreapp3.1\ComparingLoops.dll
+C:\Users\e.kolpakov\source\repos\ComparingLoops\obj\Debug\netcoreapp3.1\ComparingLoops.pdb
+C:\Users\e.kolpakov\source\repos\ComparingLoops\obj\Debug\netcoreapp3.1\ComparingLoops.genruntimeconfig.cache

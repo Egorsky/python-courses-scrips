@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingLoops", "ComparingLoops.csproj", "{EF8250F6-332C-43B8-AC5B-0148154BE5C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8250F6-332C-43B8-AC5B-0148154BE5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8250F6-332C-43B8-AC5B-0148154BE5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8250F6-332C-43B8-AC5B-0148154BE5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8250F6-332C-43B8-AC5B-0148154BE5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC23A30B-49CE-4571-A95F-851CD501A5A9}
+	EndGlobalSection
+EndGlobal
