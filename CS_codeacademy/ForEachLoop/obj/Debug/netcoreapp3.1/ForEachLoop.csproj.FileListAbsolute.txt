@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.exe
+C:\Users\e.kolpakov\source\repos\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.deps.json
+C:\Users\e.kolpakov\source\repos\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.dll
+C:\Users\e.kolpakov\source\repos\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.pdb
+C:\Users\e.kolpakov\source\repos\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.dll
+C:\Users\e.kolpakov\source\repos\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.pdb
+C:\Users\e.kolpakov\source\repos\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.genruntimeconfig.cache
