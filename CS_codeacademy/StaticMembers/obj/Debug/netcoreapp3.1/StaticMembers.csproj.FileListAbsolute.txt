@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.exe
+C:\Users\e.kolpakov\source\repos\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.deps.json
+C:\Users\e.kolpakov\source\repos\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.dll
+C:\Users\e.kolpakov\source\repos\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.pdb
+C:\Users\e.kolpakov\source\repos\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.dll
+C:\Users\e.kolpakov\source\repos\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.pdb
+C:\Users\e.kolpakov\source\repos\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.genruntimeconfig.cache
