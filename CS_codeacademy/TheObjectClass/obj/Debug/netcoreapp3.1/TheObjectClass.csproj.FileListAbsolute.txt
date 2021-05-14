@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\TheObjectClass\obj\Debug\netcoreapp3.1\TheObjectClass.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\TheObjectClass\obj\Debug\netcoreapp3.1\TheObjectClass.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\TheObjectClass\obj\Debug\netcoreapp3.1\TheObjectClass.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\TheObjectClass\obj\Debug\netcoreapp3.1\TheObjectClass.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\TheObjectClass\bin\Debug\netcoreapp3.1\TheObjectClass.exe
+C:\Users\e.kolpakov\source\repos\TheObjectClass\bin\Debug\netcoreapp3.1\TheObjectClass.deps.json
+C:\Users\e.kolpakov\source\repos\TheObjectClass\bin\Debug\netcoreapp3.1\TheObjectClass.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\TheObjectClass\bin\Debug\netcoreapp3.1\TheObjectClass.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\TheObjectClass\bin\Debug\netcoreapp3.1\TheObjectClass.dll
+C:\Users\e.kolpakov\source\repos\TheObjectClass\bin\Debug\netcoreapp3.1\TheObjectClass.pdb
+C:\Users\e.kolpakov\source\repos\TheObjectClass\obj\Debug\netcoreapp3.1\TheObjectClass.dll
+C:\Users\e.kolpakov\source\repos\TheObjectClass\obj\Debug\netcoreapp3.1\TheObjectClass.pdb
+C:\Users\e.kolpakov\source\repos\TheObjectClass\obj\Debug\netcoreapp3.1\TheObjectClass.genruntimeconfig.cache
