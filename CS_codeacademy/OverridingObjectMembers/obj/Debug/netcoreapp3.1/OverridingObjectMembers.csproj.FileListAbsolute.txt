@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\bin\Debug\netcoreapp3.1\OverridingObjectMembers.exe
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\bin\Debug\netcoreapp3.1\OverridingObjectMembers.deps.json
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\bin\Debug\netcoreapp3.1\OverridingObjectMembers.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\bin\Debug\netcoreapp3.1\OverridingObjectMembers.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\bin\Debug\netcoreapp3.1\OverridingObjectMembers.dll
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\bin\Debug\netcoreapp3.1\OverridingObjectMembers.pdb
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\obj\Debug\netcoreapp3.1\OverridingObjectMembers.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\obj\Debug\netcoreapp3.1\OverridingObjectMembers.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\obj\Debug\netcoreapp3.1\OverridingObjectMembers.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\obj\Debug\netcoreapp3.1\OverridingObjectMembers.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\obj\Debug\netcoreapp3.1\OverridingObjectMembers.dll
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\obj\Debug\netcoreapp3.1\OverridingObjectMembers.pdb
+C:\Users\e.kolpakov\source\repos\OverridingObjectMembers\obj\Debug\netcoreapp3.1\OverridingObjectMembers.genruntimeconfig.cache
