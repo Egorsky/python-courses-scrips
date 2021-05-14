@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\LearnInheritance\obj\Debug\netcoreapp3.1\LearnInheritance.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\LearnInheritance\obj\Debug\netcoreapp3.1\LearnInheritance.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\LearnInheritance\obj\Debug\netcoreapp3.1\LearnInheritance.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\LearnInheritance\obj\Debug\netcoreapp3.1\LearnInheritance.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\LearnInheritance\bin\Debug\netcoreapp3.1\LearnInheritance.exe
+C:\Users\e.kolpakov\source\repos\LearnInheritance\bin\Debug\netcoreapp3.1\LearnInheritance.deps.json
+C:\Users\e.kolpakov\source\repos\LearnInheritance\bin\Debug\netcoreapp3.1\LearnInheritance.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\LearnInheritance\bin\Debug\netcoreapp3.1\LearnInheritance.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\LearnInheritance\bin\Debug\netcoreapp3.1\LearnInheritance.dll
+C:\Users\e.kolpakov\source\repos\LearnInheritance\bin\Debug\netcoreapp3.1\LearnInheritance.pdb
+C:\Users\e.kolpakov\source\repos\LearnInheritance\obj\Debug\netcoreapp3.1\LearnInheritance.dll
+C:\Users\e.kolpakov\source\repos\LearnInheritance\obj\Debug\netcoreapp3.1\LearnInheritance.pdb
+C:\Users\e.kolpakov\source\repos\LearnInheritance\obj\Debug\netcoreapp3.1\LearnInheritance.genruntimeconfig.cache
