@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ReplaceMethod/1.0.0": {
+        "runtime": {
+          "ReplaceMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReplaceMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
