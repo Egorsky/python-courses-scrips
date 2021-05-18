@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\ListInitialization\bin\Debug\netcoreapp3.1\ListInitialization.exe
+C:\Users\e.kolpakov\source\repos\ListInitialization\bin\Debug\netcoreapp3.1\ListInitialization.deps.json
+C:\Users\e.kolpakov\source\repos\ListInitialization\bin\Debug\netcoreapp3.1\ListInitialization.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\ListInitialization\bin\Debug\netcoreapp3.1\ListInitialization.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\ListInitialization\bin\Debug\netcoreapp3.1\ListInitialization.dll
+C:\Users\e.kolpakov\source\repos\ListInitialization\bin\Debug\netcoreapp3.1\ListInitialization.pdb
+C:\Users\e.kolpakov\source\repos\ListInitialization\obj\Debug\netcoreapp3.1\ListInitialization.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\ListInitialization\obj\Debug\netcoreapp3.1\ListInitialization.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\ListInitialization\obj\Debug\netcoreapp3.1\ListInitialization.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\ListInitialization\obj\Debug\netcoreapp3.1\ListInitialization.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\ListInitialization\obj\Debug\netcoreapp3.1\ListInitialization.dll
+C:\Users\e.kolpakov\source\repos\ListInitialization\obj\Debug\netcoreapp3.1\ListInitialization.pdb
+C:\Users\e.kolpakov\source\repos\ListInitialization\obj\Debug\netcoreapp3.1\ListInitialization.genruntimeconfig.cache
