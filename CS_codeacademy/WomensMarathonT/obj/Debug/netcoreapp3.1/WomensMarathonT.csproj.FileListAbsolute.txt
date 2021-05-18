@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\obj\Debug\netcoreapp3.1\WomensMarathonT.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\obj\Debug\netcoreapp3.1\WomensMarathonT.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\obj\Debug\netcoreapp3.1\WomensMarathonT.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\obj\Debug\netcoreapp3.1\WomensMarathonT.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\bin\Debug\netcoreapp3.1\WomensMarathonT.exe
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\bin\Debug\netcoreapp3.1\WomensMarathonT.deps.json
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\bin\Debug\netcoreapp3.1\WomensMarathonT.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\bin\Debug\netcoreapp3.1\WomensMarathonT.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\bin\Debug\netcoreapp3.1\WomensMarathonT.dll
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\bin\Debug\netcoreapp3.1\WomensMarathonT.pdb
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\obj\Debug\netcoreapp3.1\WomensMarathonT.dll
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\obj\Debug\netcoreapp3.1\WomensMarathonT.pdb
+C:\Users\e.kolpakov\source\repos\WomensMarathonT\obj\Debug\netcoreapp3.1\WomensMarathonT.genruntimeconfig.cache
