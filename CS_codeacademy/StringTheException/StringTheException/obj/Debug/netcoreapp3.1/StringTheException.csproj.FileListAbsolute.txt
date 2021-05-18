@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\StringTheException\bin\Debug\netcoreapp3.1\StringTheException.exe
+C:\Users\e.kolpakov\source\repos\StringTheException\bin\Debug\netcoreapp3.1\StringTheException.deps.json
+C:\Users\e.kolpakov\source\repos\StringTheException\bin\Debug\netcoreapp3.1\StringTheException.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\StringTheException\bin\Debug\netcoreapp3.1\StringTheException.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\StringTheException\bin\Debug\netcoreapp3.1\StringTheException.dll
+C:\Users\e.kolpakov\source\repos\StringTheException\bin\Debug\netcoreapp3.1\StringTheException.pdb
+C:\Users\e.kolpakov\source\repos\StringTheException\obj\Debug\netcoreapp3.1\StringTheException.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\StringTheException\obj\Debug\netcoreapp3.1\StringTheException.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\StringTheException\obj\Debug\netcoreapp3.1\StringTheException.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\StringTheException\obj\Debug\netcoreapp3.1\StringTheException.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\StringTheException\obj\Debug\netcoreapp3.1\StringTheException.dll
+C:\Users\e.kolpakov\source\repos\StringTheException\obj\Debug\netcoreapp3.1\StringTheException.pdb
+C:\Users\e.kolpakov\source\repos\StringTheException\obj\Debug\netcoreapp3.1\StringTheException.genruntimeconfig.cache
