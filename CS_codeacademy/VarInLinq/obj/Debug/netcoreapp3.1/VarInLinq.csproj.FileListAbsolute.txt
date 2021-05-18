@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\VarInLinq\obj\Debug\netcoreapp3.1\VarInLinq.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\VarInLinq\obj\Debug\netcoreapp3.1\VarInLinq.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\VarInLinq\obj\Debug\netcoreapp3.1\VarInLinq.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\VarInLinq\obj\Debug\netcoreapp3.1\VarInLinq.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\VarInLinq\bin\Debug\netcoreapp3.1\VarInLinq.exe
+C:\Users\e.kolpakov\source\repos\VarInLinq\bin\Debug\netcoreapp3.1\VarInLinq.deps.json
+C:\Users\e.kolpakov\source\repos\VarInLinq\bin\Debug\netcoreapp3.1\VarInLinq.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\VarInLinq\bin\Debug\netcoreapp3.1\VarInLinq.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\VarInLinq\bin\Debug\netcoreapp3.1\VarInLinq.dll
+C:\Users\e.kolpakov\source\repos\VarInLinq\bin\Debug\netcoreapp3.1\VarInLinq.pdb
+C:\Users\e.kolpakov\source\repos\VarInLinq\obj\Debug\netcoreapp3.1\VarInLinq.dll
+C:\Users\e.kolpakov\source\repos\VarInLinq\obj\Debug\netcoreapp3.1\VarInLinq.pdb
+C:\Users\e.kolpakov\source\repos\VarInLinq\obj\Debug\netcoreapp3.1\VarInLinq.genruntimeconfig.cache

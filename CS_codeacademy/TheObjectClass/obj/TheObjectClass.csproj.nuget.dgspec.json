@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e.kolpakov\\source\\repos\\TheObjectClass\\TheObjectClass.csproj": {}
+    "C:\\Users\\egoog\\python-courses-scrips\\CS_codeacademy\\TheObjectClass\\TheObjectClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e.kolpakov\\source\\repos\\TheObjectClass\\TheObjectClass.csproj": {
+    "C:\\Users\\egoog\\python-courses-scrips\\CS_codeacademy\\TheObjectClass\\TheObjectClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e.kolpakov\\source\\repos\\TheObjectClass\\TheObjectClass.csproj",
+        "projectUniqueName": "C:\\Users\\egoog\\python-courses-scrips\\CS_codeacademy\\TheObjectClass\\TheObjectClass.csproj",
         "projectName": "TheObjectClass",
-        "projectPath": "C:\\Users\\e.kolpakov\\source\\repos\\TheObjectClass\\TheObjectClass.csproj",
-        "packagesPath": "C:\\Users\\e.kolpakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e.kolpakov\\source\\repos\\TheObjectClass\\obj\\",
+        "projectPath": "C:\\Users\\egoog\\python-courses-scrips\\CS_codeacademy\\TheObjectClass\\TheObjectClass.csproj",
+        "packagesPath": "C:\\Users\\egoog\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\egoog\\python-courses-scrips\\CS_codeacademy\\TheObjectClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\e.kolpakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\egoog\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
