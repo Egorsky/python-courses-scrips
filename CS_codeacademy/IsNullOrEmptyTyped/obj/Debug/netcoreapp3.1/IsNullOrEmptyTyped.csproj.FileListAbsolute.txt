@@ -1,0 +1,12 @@
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\bin\Debug\netcoreapp3.1\IsNullOrEmptyTyped.exe
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\bin\Debug\netcoreapp3.1\IsNullOrEmptyTyped.deps.json
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\bin\Debug\netcoreapp3.1\IsNullOrEmptyTyped.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\bin\Debug\netcoreapp3.1\IsNullOrEmptyTyped.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\bin\Debug\netcoreapp3.1\IsNullOrEmptyTyped.dll
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\bin\Debug\netcoreapp3.1\IsNullOrEmptyTyped.pdb
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\obj\Debug\netcoreapp3.1\IsNullOrEmptyTyped.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\obj\Debug\netcoreapp3.1\IsNullOrEmptyTyped.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\obj\Debug\netcoreapp3.1\IsNullOrEmptyTyped.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\obj\Debug\netcoreapp3.1\IsNullOrEmptyTyped.dll
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\obj\Debug\netcoreapp3.1\IsNullOrEmptyTyped.pdb
+C:\Users\e.kolpakov\source\repos\IsNullOrEmptyTyped\obj\Debug\netcoreapp3.1\IsNullOrEmptyTyped.genruntimeconfig.cache
