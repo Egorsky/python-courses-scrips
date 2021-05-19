@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\bin\Debug\netcoreapp3.1\WhereSelectLinq.exe
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\bin\Debug\netcoreapp3.1\WhereSelectLinq.deps.json
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\bin\Debug\netcoreapp3.1\WhereSelectLinq.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\bin\Debug\netcoreapp3.1\WhereSelectLinq.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\bin\Debug\netcoreapp3.1\WhereSelectLinq.dll
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\bin\Debug\netcoreapp3.1\WhereSelectLinq.pdb
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\obj\Debug\netcoreapp3.1\WhereSelectLinq.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\obj\Debug\netcoreapp3.1\WhereSelectLinq.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\obj\Debug\netcoreapp3.1\WhereSelectLinq.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\obj\Debug\netcoreapp3.1\WhereSelectLinq.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\obj\Debug\netcoreapp3.1\WhereSelectLinq.dll
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\obj\Debug\netcoreapp3.1\WhereSelectLinq.pdb
+C:\Users\e.kolpakov\source\repos\WhereSelectLinq\obj\Debug\netcoreapp3.1\WhereSelectLinq.genruntimeconfig.cache
