@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\LinqAnonF\bin\Debug\netcoreapp3.1\LinqAnonF.exe
+C:\Users\e.kolpakov\source\repos\LinqAnonF\bin\Debug\netcoreapp3.1\LinqAnonF.deps.json
+C:\Users\e.kolpakov\source\repos\LinqAnonF\bin\Debug\netcoreapp3.1\LinqAnonF.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\LinqAnonF\bin\Debug\netcoreapp3.1\LinqAnonF.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\LinqAnonF\bin\Debug\netcoreapp3.1\LinqAnonF.dll
+C:\Users\e.kolpakov\source\repos\LinqAnonF\bin\Debug\netcoreapp3.1\LinqAnonF.pdb
+C:\Users\e.kolpakov\source\repos\LinqAnonF\obj\Debug\netcoreapp3.1\LinqAnonF.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\LinqAnonF\obj\Debug\netcoreapp3.1\LinqAnonF.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\LinqAnonF\obj\Debug\netcoreapp3.1\LinqAnonF.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\LinqAnonF\obj\Debug\netcoreapp3.1\LinqAnonF.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\LinqAnonF\obj\Debug\netcoreapp3.1\LinqAnonF.dll
+C:\Users\e.kolpakov\source\repos\LinqAnonF\obj\Debug\netcoreapp3.1\LinqAnonF.pdb
+C:\Users\e.kolpakov\source\repos\LinqAnonF\obj\Debug\netcoreapp3.1\LinqAnonF.genruntimeconfig.cache
