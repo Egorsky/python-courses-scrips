@@ -1,0 +1,12 @@
+C:\Users\e.kolpakov\source\repos\LinqSqus\obj\Debug\netcoreapp3.1\LinqSqus.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\LinqSqus\obj\Debug\netcoreapp3.1\LinqSqus.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\LinqSqus\obj\Debug\netcoreapp3.1\LinqSqus.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\LinqSqus\bin\Debug\netcoreapp3.1\LinqSqus.exe
+C:\Users\e.kolpakov\source\repos\LinqSqus\bin\Debug\netcoreapp3.1\LinqSqus.deps.json
+C:\Users\e.kolpakov\source\repos\LinqSqus\bin\Debug\netcoreapp3.1\LinqSqus.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\LinqSqus\bin\Debug\netcoreapp3.1\LinqSqus.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\LinqSqus\bin\Debug\netcoreapp3.1\LinqSqus.dll
+C:\Users\e.kolpakov\source\repos\LinqSqus\bin\Debug\netcoreapp3.1\LinqSqus.pdb
+C:\Users\e.kolpakov\source\repos\LinqSqus\obj\Debug\netcoreapp3.1\LinqSqus.dll
+C:\Users\e.kolpakov\source\repos\LinqSqus\obj\Debug\netcoreapp3.1\LinqSqus.pdb
+C:\Users\e.kolpakov\source\repos\LinqSqus\obj\Debug\netcoreapp3.1\LinqSqus.genruntimeconfig.cache
