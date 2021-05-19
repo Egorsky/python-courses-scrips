@@ -1,0 +1,12 @@
+C:\Users\e.kolpakov\source\repos\LnqListContains\bin\Debug\netcoreapp3.1\LnqListContains.exe
+C:\Users\e.kolpakov\source\repos\LnqListContains\bin\Debug\netcoreapp3.1\LnqListContains.deps.json
+C:\Users\e.kolpakov\source\repos\LnqListContains\bin\Debug\netcoreapp3.1\LnqListContains.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\LnqListContains\bin\Debug\netcoreapp3.1\LnqListContains.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\LnqListContains\bin\Debug\netcoreapp3.1\LnqListContains.dll
+C:\Users\e.kolpakov\source\repos\LnqListContains\bin\Debug\netcoreapp3.1\LnqListContains.pdb
+C:\Users\e.kolpakov\source\repos\LnqListContains\obj\Debug\netcoreapp3.1\LnqListContains.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\LnqListContains\obj\Debug\netcoreapp3.1\LnqListContains.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\LnqListContains\obj\Debug\netcoreapp3.1\LnqListContains.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\LnqListContains\obj\Debug\netcoreapp3.1\LnqListContains.dll
+C:\Users\e.kolpakov\source\repos\LnqListContains\obj\Debug\netcoreapp3.1\LnqListContains.pdb
+C:\Users\e.kolpakov\source\repos\LnqListContains\obj\Debug\netcoreapp3.1\LnqListContains.genruntimeconfig.cache
