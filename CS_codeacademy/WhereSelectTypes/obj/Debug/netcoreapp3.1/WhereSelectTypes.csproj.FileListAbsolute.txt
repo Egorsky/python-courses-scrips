@@ -1,0 +1,13 @@
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\bin\Debug\netcoreapp3.1\WhereSelectTypes.exe
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\bin\Debug\netcoreapp3.1\WhereSelectTypes.deps.json
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\bin\Debug\netcoreapp3.1\WhereSelectTypes.runtimeconfig.json
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\bin\Debug\netcoreapp3.1\WhereSelectTypes.runtimeconfig.dev.json
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\bin\Debug\netcoreapp3.1\WhereSelectTypes.dll
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\bin\Debug\netcoreapp3.1\WhereSelectTypes.pdb
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\obj\Debug\netcoreapp3.1\WhereSelectTypes.csprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\obj\Debug\netcoreapp3.1\WhereSelectTypes.AssemblyInfoInputs.cache
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\obj\Debug\netcoreapp3.1\WhereSelectTypes.AssemblyInfo.cs
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\obj\Debug\netcoreapp3.1\WhereSelectTypes.csproj.CoreCompileInputs.cache
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\obj\Debug\netcoreapp3.1\WhereSelectTypes.dll
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\obj\Debug\netcoreapp3.1\WhereSelectTypes.pdb
+C:\Users\e.kolpakov\source\repos\WhereSelectTypes\obj\Debug\netcoreapp3.1\WhereSelectTypes.genruntimeconfig.cache
