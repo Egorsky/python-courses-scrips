@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="f4714f42-f86d-413a-9c3d-eac18f3a3cc4" ChangeDateTime="05/28/2021 07:31:42">
+    <Property Name="ElementName" Value="[dbo].[FK_Adress_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Adress]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_Adress_Person]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="bc95c56d-0dd4-4314-aacd-dc49486d7118" ChangeDateTime="05/28/2021 08:31:25">
+    <Property Name="ElementName" Value="[dbo].[PersonalData].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[PersonalData]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[PersonId]" />
+  </Operation>
+</Operations>

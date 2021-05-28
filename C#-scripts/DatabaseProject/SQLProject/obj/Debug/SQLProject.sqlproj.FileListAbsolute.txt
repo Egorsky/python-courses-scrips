@@ -1,0 +1,10 @@
+C:\Users\e.kolpakov\source\repos\DatabaseProject\SQLProject\bin\Debug\SQLProject.dacpac
+C:\Users\e.kolpakov\source\repos\DatabaseProject\SQLProject\bin\Debug\SQLProject.dll
+C:\Users\e.kolpakov\source\repos\DatabaseProject\SQLProject\bin\Debug\SQLProject.pdb
+C:\Users\e.kolpakov\source\repos\DatabaseProject\SQLProject\obj\Debug\SQLProject.sqlprojAssemblyReference.cache
+C:\Users\e.kolpakov\source\repos\DatabaseProject\SQLProject\obj\Debug\SQLProject.dll
+C:\Users\e.kolpakov\source\repos\DatabaseProject\SQLProject\obj\Debug\SQLProject.pdb
+C:\Users\e.kolpakov\source\repos\DatabaseProject\SQLProject\obj\Debug\Model.xml
+C:\Users\e.kolpakov\source\repos\DatabaseProject\SQLProject\obj\Debug\refactor.xml
+C:\Users\e.kolpakov\source\repos\DatabaseProject\SQLProject\obj\Debug\postdeploy.sql
+C:\Users\e.kolpakov\source\repos\DatabaseProject\SQLProject\obj\Debug\predeploy.sql
