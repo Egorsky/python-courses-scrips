@@ -1,3 +1,2 @@
 # python-courses-scrips
-Those scripts are mostly from courses I finished. Pump performance is my
-own project, based on real data. 
+Those scripts are mostly from courses I finished. This folder also consists of verios personal projects. 
