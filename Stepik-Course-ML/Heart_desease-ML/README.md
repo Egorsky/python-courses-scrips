@@ -1,0 +1,1 @@
+In this project I defined the most important features that defines person who has a heart desease. The dataset was taken from Kaggle.
