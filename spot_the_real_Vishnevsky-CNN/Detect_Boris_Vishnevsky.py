@@ -19,24 +19,24 @@ def prepare(filepath):
 # loading model
 model = tf.keras.models.load_model("BLV-CNN.model")
 
-DATADIR = r'C:\\Users\\egoog\\Documents\\Coding\\spot_the_real_Vishnevsky\\manual_testing'
+DATADIR = r'Your_dir\\spot_the_real_Vishnevsky\\manual_testing'
 
-prediction = model.predict([prepare(r'C:\Users\egoog\Documents\Coding\spot_the_real_Vishnevsky\manual_testing\2.jpg')])
-img = mpimg.imread(r'C:\Users\egoog\Documents\Coding\spot_the_real_Vishnevsky\manual_testing\2.jpg')
+prediction = model.predict([prepare(r'Your_dir\spot_the_real_Vishnevsky\manual_testing\2.jpg')])
+img = mpimg.imread(r'Your_dir\spot_the_real_Vishnevsky\manual_testing\2.jpg')
 imgplot = plt.imshow(img)
 plt.show()
 
 print(CATEGORIES[int(prediction[0][0])])
 
-prediction = model.predict([prepare(r'C:\Users\egoog\Documents\Coding\spot_the_real_Vishnevsky\manual_testing\3.jpg')])
-img = mpimg.imread(r'C:\Users\egoog\Documents\Coding\spot_the_real_Vishnevsky\manual_testing\3.jpg')
+prediction = model.predict([prepare(r'Your_dir\spot_the_real_Vishnevsky\manual_testing\3.jpg')])
+img = mpimg.imread(r'Your_dir\spot_the_real_Vishnevsky\manual_testing\3.jpg')
 imgplot = plt.imshow(img)
 plt.show()
 
 print(CATEGORIES[int(prediction[0][0])])
 
-prediction = model.predict([prepare(r'C:\Users\egoog\Documents\Coding\spot_the_real_Vishnevsky\manual_testing\4.jpg')])
-img = mpimg.imread(r'C:\Users\egoog\Documents\Coding\spot_the_real_Vishnevsky\manual_testing\4.jpg')
+prediction = model.predict([prepare(r'Your_dir\spot_the_real_Vishnevsky\manual_testing\4.jpg')])
+img = mpimg.imread(r'Your_dir\spot_the_real_Vishnevsky\manual_testing\4.jpg')
 imgplot = plt.imshow(img)
 plt.show()
 
