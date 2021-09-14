@@ -5,9 +5,9 @@ which is Boris Vishnevsky. The whole description is here: https://therussianread
 
 I decided to help people to spot the real Boris Lazarevich Vishnevsky among others. For this purpose I used CNN with three layers using TensorFlow.
 
-Due to the lack of time and pretty poor dataset I got quite good results. I suppose this project to be WIP for now.
+Data augementation was used to make dataset better. The grapsh shows promising results.
 
 For CNN and TensorFlow explanation big thanks to:
-https://www.youtube.com/c/sentdex
-https://www.youtube.com/c/Freecodecamp
-https://www.youtube.com/c/JonKrohnLearns
+- https://www.youtube.com/c/sentdex
+- https://www.youtube.com/c/Freecodecamp
+- https://www.youtube.com/c/JonKrohnLearns
