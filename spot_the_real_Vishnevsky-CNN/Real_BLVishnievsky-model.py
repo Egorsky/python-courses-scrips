@@ -27,7 +27,8 @@ for category in CATEGORIES:
         plt.show()
         break
     break
-# Data augementation
+
+# Data augmentation for both datasets
 
 # Folder with target images
 
